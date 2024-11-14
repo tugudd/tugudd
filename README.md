@@ -1,16 +1,24 @@
-## Hi there 👋
+# 1001000 1101001, I'm Yslam Orazov
 
-<!--
-**tugudd/tugudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am primarily a competitive programmer that aspires to master the art of computing. I have been coding since 7th grade and actively participating in coding olympiads and competitions.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,py,postgres,mysql,redis,docker,git,kafka,bash,linux,vim&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+
+- **Algorithms and Data Structures**
+- **Problem Solving**
+- **Operating Systems**
+- **Compilers**
+- **Computer Architecture**
+- **Hardware**
+- **Low Level Programming**
+
+I don't have any experience in most of these fields, but I hope to learn more in practice.
+
+## 🔗 Find Me Around The Web
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tugudd)  
+- 📬 [Email](yslam.orazovtg@gmail.com)
+- 💻 [LeetCode](leetcode.com/tugudd)
