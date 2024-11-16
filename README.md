@@ -21,4 +21,4 @@ I don't have any experience in most of these fields, but I hope to learn more in
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tugudd)  
 - 📬 [Email](yslam.orazovtg@gmail.com)
-- 💻 [LeetCode](leetcode.com/tugudd)
+- 💻 [LeetCode](https://leetcode.com/tugudd)
