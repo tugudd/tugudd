@@ -20,5 +20,5 @@ I don't have any experience in most of these fields, but I hope to learn more in
 ## 🔗 Find Me Around The Web
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tugudd)  
-- 📬 [Email](yslam.orazovtg@gmail.com)
+- 📬 [Email](mailto:yslam.orazovtg@gmail.com)
 - 💻 [LeetCode](https://leetcode.com/tugudd)
